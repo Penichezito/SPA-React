@@ -11,7 +11,6 @@ Após clonar o repositório, é necessário ir ao diretório raiz desse projeto 
 
 ```
 $ npm install
-
 ```
 Este comando instala as dependências/bibliotecas, descritas no arquivo package.json. Uma pasta chamada node_modules será criada.
 
@@ -19,6 +18,5 @@ Este comando instala as dependências/bibliotecas, descritas no arquivo package.
 Para executar a interface basta executar o comando:
 ````
 $ npm start
-
 ````
 Abra o http://localhost:3000/#/ no navegador.
